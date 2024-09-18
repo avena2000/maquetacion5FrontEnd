@@ -56,10 +56,12 @@ nav ul li a.active {
 .hero {
     background: url('../img/foto_slide.jpg') center/cover no-repeat;
     height: 400px;
+    max-width: 1200px;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
+    margin: auto;
 }
 
 .hero-text h1 {
