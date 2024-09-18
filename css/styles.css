@@ -54,7 +54,7 @@ nav ul li a.active {
     background-color: black;
 }
 .hero {
-    background: url('/img/foto_slide.jpg') center/cover no-repeat;
+    background: url('../img/foto_slide.jpg') center/cover no-repeat;
     height: 400px;
     display: flex;
     justify-content: center;
